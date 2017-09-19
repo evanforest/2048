@@ -9,7 +9,7 @@ qq：535903063</br>
 动画效果根据计算动画剩余时长来重绘View，达到动画效果。</br>
 </br>
 ![image](https://github.com/Greglin535903063/2048/raw/master/image/截图_游戏中.png)</br>
-![image](https://github.com/Greglin535903063/2048/blob/master/image/截图_关于游戏.png)</br>
+![image](https://github.com/Greglin535903063/2048/raw/master/image/截图_关于游戏.png)</br>
 </br>
 更多截图请看项目的image文件夹
 </br>
