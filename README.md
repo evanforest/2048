@@ -7,6 +7,9 @@ qq：535903063</br>
 <h4>简介：</h4>
 安卓View游戏框架制作的2048小游戏。使用自定义View实现，通过用户触摸事件来重绘view实现交互。</br>
 动画效果根据计算动画剩余时长来重绘View，达到动画效果。</br>
+![Image text](https://github.com/Greglin535903063/2048/raw/master/image/截图_游戏中.png)
+![Image text](https://github.com/Greglin535903063/2048/blob/master/image/截图_关于游戏.png)
+更多截图请看项目的image文件夹
 </br>
 <h4>功能：</h4>
 游戏全部场景只有一个Activity和一个View。</br>
