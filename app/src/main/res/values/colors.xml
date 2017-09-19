@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorMainBackground">#F2B179</color>
+    <color name="colorMyPrimary">#F2B179</color>
+    <color name="gameBackground">#f2eee9</color>
+    <color name="textDarkColor">#776E65</color>
+    <color name="cardbaseColor">#BBADA0</color>
+    <!--<color name="scoretextColor">#aca094</color>-->
+    <color name="color0">#ded3c8</color>
+    <color name="color2">#EEE4DA</color>
+    <color name="color4">#EDE0C8</color>
+    <color name="color8">#F2B179</color>
+    <color name="color16">#F59563</color>
+    <color name="color32">#F67C5F</color>
+    <color name="color64">#F65E3B</color>
+    <color name="color128">#EDCF72</color>
+    <color name="color256">#EDCC61</color>
+    <color name="color512">#EDC850</color>
+    <color name="color1024">#EDC53F</color>
+    <color name="color2048">#f4c11d</color>
+    <color name="color4096">#76c648</color>
+    <color name="color8192">#62c926</color>
+    <color name="color16384">#3378e7</color>
+    <color name="color32768">#0f64ed</color>
+    <color name="color65536">#9900ff</color>
+    <color name="color65537">#341e43</color>
+</resources>
